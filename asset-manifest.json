@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/rajmaharjan/static/css/main.d1b05096.chunk.css",
-    "main.js": "/rajmaharjan/static/js/main.23c995fd.chunk.js",
-    "main.js.map": "/rajmaharjan/static/js/main.23c995fd.chunk.js.map",
-    "runtime-main.js": "/rajmaharjan/static/js/runtime-main.a62b6f30.js",
-    "runtime-main.js.map": "/rajmaharjan/static/js/runtime-main.a62b6f30.js.map",
-    "static/js/2.4723e2f6.chunk.js": "/rajmaharjan/static/js/2.4723e2f6.chunk.js",
-    "static/js/2.4723e2f6.chunk.js.map": "/rajmaharjan/static/js/2.4723e2f6.chunk.js.map",
-    "index.html": "/rajmaharjan/index.html",
-    "precache-manifest.aba502df605ee9c4006c36d4adf05e5a.js": "/rajmaharjan/precache-manifest.aba502df605ee9c4006c36d4adf05e5a.js",
-    "service-worker.js": "/rajmaharjan/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/rajmaharjan/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.4723e2f6.chunk.js.LICENSE.txt": "/rajmaharjan/static/js/2.4723e2f6.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/rajmaharjan/static/media/logo.5d5d9eef.svg"
+    "main.css": "/roxcity.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "/roxcity.github.io/static/js/main.793a4d72.chunk.js",
+    "main.js.map": "/roxcity.github.io/static/js/main.793a4d72.chunk.js.map",
+    "runtime-main.js": "/roxcity.github.io/static/js/runtime-main.36e5e3ac.js",
+    "runtime-main.js.map": "/roxcity.github.io/static/js/runtime-main.36e5e3ac.js.map",
+    "static/js/2.4723e2f6.chunk.js": "/roxcity.github.io/static/js/2.4723e2f6.chunk.js",
+    "static/js/2.4723e2f6.chunk.js.map": "/roxcity.github.io/static/js/2.4723e2f6.chunk.js.map",
+    "index.html": "/roxcity.github.io/index.html",
+    "precache-manifest.78c63ea9b69bf9c812e168146ff699b5.js": "/roxcity.github.io/precache-manifest.78c63ea9b69bf9c812e168146ff699b5.js",
+    "service-worker.js": "/roxcity.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/roxcity.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.4723e2f6.chunk.js.LICENSE.txt": "/roxcity.github.io/static/js/2.4723e2f6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/roxcity.github.io/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a62b6f30.js",
+    "static/js/runtime-main.36e5e3ac.js",
     "static/js/2.4723e2f6.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.23c995fd.chunk.js"
+    "static/js/main.793a4d72.chunk.js"
   ]
 }
