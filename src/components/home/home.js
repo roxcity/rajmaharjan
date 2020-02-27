@@ -1,34 +1,24 @@
 import React from "react";
 
-import './home.scss'
+import "./home.scss";
 
 function Home(props) {
   return (
     <div className="home_page">
-      <div className="left_panel">
-        <div className="profile">
+      <div className="personal">
+        <div className="picture">
           <img src={"raj.jpeg"} alt="raj" />
-            <p className="name">Raj Krishna Maharjan</p>
-            <p className="title">Software Engineer </p>
-            <p className="company">YoungInnovations Pvt. Ltd.</p>
         </div>
-        <div className="links">
-          <p>HOME</p>
-          <p>ABOUT</p>
-          <p>SERVICES</p>
-          <p>SKILLS</p>
-          <p>EDUCATION</p>
-          <p>EXPERIENCE</p>
-          <p>WORK</p>
-          <p>BLOG</p>
-          <p>CONTACT</p>
-        </div>
-        <div className="footer">
-        &#169; CopyRight 2020, All right reserved.
+        <div className="info">
+          <p className="name">Raj Krishna Maharjan</p>
+          <p className="title">
+            <span>Software Engineer</span> at YOUNGINNOVATIONS
+          </p>
         </div>
       </div>
-      <div className="right_panel">
-        {/* <img className="cover-photo" src="raj_wall.jpg" alt="" /> */}
+      <div className="links">
+        <p><a href="https://github.com/roxcity" target="_blank" rel="noopener noreferrer">Github</a></p>
+        <p><a href="https://www.linkedin.com/in/rajmaharjan" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
       </div>
     </div>
   );

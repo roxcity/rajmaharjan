@@ -1,40 +1,41 @@
 .home_page {
   display: flex;
+  justify-content: center;
+  align-items: center;
   height: 100vh;
+  font-size: 1rem;
+  background: #f3f5f9;
 
-  .left_panel {
+  .personal {
     display: flex;
-    flex-direction: column;
+    justify-content: center;
     align-items: center;
-    background: #f3f5f9;
-    width: 25%;
-    text-align: center;
 
-    .profile {
+    .picture {
       img {
-        height: 200px;
-        width: 200px;
         border-radius: 50%;
+        height: 300px;
+        width: 300px;
       }
     }
 
-    .name {
-      font-weight: bold;
-    }
-    
-    .title {
-      color: skyblue;
-    }
+    .info {
+      margin-left: 3rem;
 
-    .company {
-      text-transform: uppercase;
+      .name {
+        font-size: 2rem;
+        font-family: "Playfair Display";
+      }
+
+      .title {
+        span {
+          color: #2c98f0;
+        }
+      }
     }
   }
 
-  .right_panel {
-    width: 75%;
-
-    .cover-photo {
-    }
+  .links {
+    margin-left: 2rem;
   }
 }
