@@ -19,6 +19,8 @@ function Home(props) {
       <div className="links">
         <p><a href="https://github.com/roxcity" target="_blank" rel="noopener noreferrer">Github</a></p>
         <p><a href="https://www.linkedin.com/in/rajmaharjan" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+        <p><a href="https://medium.com/@Roxcity" target="_blank" rel="noopener noreferrer">Medium</a></p>
+        <p><a href="https://twitter.com/esportsraj" target="_blank" rel="noopener noreferrer">Twitter</a></p>
       </div>
     </div>
   );
