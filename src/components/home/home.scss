@@ -5,6 +5,7 @@
   height: 100vh;
   font-size: 1rem;
   background: #f3f5f9;
+  padding: 2rem;
 
   .personal {
     display: flex;
@@ -37,5 +38,41 @@
 
   .links {
     margin-left: 2rem;
+
+    a {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+      
+      img {
+        height: 2rem;
+        width: 2rem;
+      }
+
+      span {
+        margin-left: 10px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .home_page {
+    flex-direction: column;
+
+    .personal {
+      flex-direction: column;
+    }
+
+    .links {
+      p {
+        display: inline-block;
+        margin: 20px;
+        
+        span {
+          display: none;
+        }
+      }
+    }
   }
 }

@@ -17,10 +17,46 @@ function Home(props) {
         </div>
       </div>
       <div className="links">
-        <p><a href="https://github.com/roxcity" target="_blank" rel="noopener noreferrer">Github</a></p>
-        <p><a href="https://www.linkedin.com/in/rajmaharjan" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
-        <p><a href="https://medium.com/@Roxcity" target="_blank" rel="noopener noreferrer">Medium</a></p>
-        <p><a href="https://twitter.com/esportsraj" target="_blank" rel="noopener noreferrer">Twitter</a></p>
+        <p>
+          <a
+            href="https://github.com/roxcity"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/social/github.svg" alt="Github" />
+            <span>Github</span>
+          </a>
+        </p>
+        <p>
+          <a
+            href="https://www.linkedin.com/in/rajmaharjan"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/social/linkedin.svg" alt="LinkedIn" />
+            <span>LinkedIn</span>
+          </a>
+        </p>
+        <p>
+          <a
+            href="https://medium.com/@Roxcity"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/social/medium.svg" alt="Medium" />
+            <span>Medium</span>
+          </a>
+        </p>
+        <p>
+          <a
+            href="https://twitter.com/esportsraj"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/social/twitter.svg" alt="Twitter" />
+            <span>Twitter</span>
+          </a>
+        </p>
       </div>
     </div>
   );
