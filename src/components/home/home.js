@@ -39,7 +39,7 @@ function Home(props) {
         </p>
         <p>
           <a
-            href="https://medium.com/@Roxcity"
+            href="https://medium.com/@raj_maharjan"
             target="_blank"
             rel="noopener noreferrer"
           >
