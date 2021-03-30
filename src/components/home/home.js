@@ -12,7 +12,7 @@ function Home(props) {
         <div className="info">
           <p className="name">Raj Krishna Maharjan</p>
           <p className="title">
-            <span>Software Engineer</span> at YOUNGINNOVATIONS
+            <span>Senior Software Engineer</span> at CODING MOUNTAIN
           </p>
         </div>
       </div>
