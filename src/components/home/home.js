@@ -57,6 +57,16 @@ function Home(props) {
             <span>Twitter</span>
           </a>
         </p>
+        <p>
+          <a
+            href="https://dev.to/rajmaharjan"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <img src="/social/devto.svg" alt="Dev.to" />
+            <span>Dev.to</span>
+          </a>
+        </p>
       </div>
     </div>
   );
